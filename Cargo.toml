@@ -8,5 +8,5 @@ default = []
 intrinsics = ["perfetto-sdk/intrinsics"]
 
 [dependencies]
-perfetto-sdk = "0.1"
+perfetto-sdk = "0.1.2"
 perfetto-sdk-derive = "0.1"
