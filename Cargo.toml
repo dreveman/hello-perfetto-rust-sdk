@@ -1,6 +1,6 @@
 [package]
 name = "hello-perfetto-rust-sdk"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2024"
 
 [features]
@@ -8,5 +8,5 @@ default = []
 intrinsics = ["perfetto-sdk/intrinsics"]
 
 [dependencies]
-perfetto-sdk = "1"
+perfetto-sdk = "1.2"
 perfetto-sdk-derive = "1"
